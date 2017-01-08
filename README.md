@@ -38,7 +38,7 @@ weave-net-ph7l3                         2/2       Running   0          1h
 
 ## Installation
 ```bash
-git pull https://github.com/JulienLenne/vagrant-centos-kubernetes.git
+git pull https://github.com/loc8dotpace/vagrant-centos-kubernetes.git
 cd vagrant-centos-kubernetes/
 vagrant up
 ```
